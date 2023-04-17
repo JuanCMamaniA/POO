@@ -1,0 +1,1 @@
+|juan |juan:=Persona apellido: 'juan' nombre:'pepe'  edad: 12.

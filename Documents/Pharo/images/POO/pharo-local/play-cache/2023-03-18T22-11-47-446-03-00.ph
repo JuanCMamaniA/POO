@@ -1,0 +1,1 @@
+Persona nombre: 'juan' apellido:'mamani'  edad: 21.

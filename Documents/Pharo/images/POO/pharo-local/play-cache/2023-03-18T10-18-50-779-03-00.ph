@@ -1,0 +1,1 @@
+|numero nombre|.numero := 2.nombre:='juan'.Transcript show:nombre printString .

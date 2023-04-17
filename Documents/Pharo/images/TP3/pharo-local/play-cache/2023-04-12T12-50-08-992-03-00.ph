@@ -1,0 +1,1 @@
+|autor1|autor1 := Autor2 newNombreAutor: 'PEPE' apellido:'Mamani'  email:'pepe@gmail.com'  fechaNacimiento: (Date year: 2003 month:5  day: 3) titulo:'Ingeniero'  filiacion:'Universidad'.Transcript clear .Transcript show: autor1 toString;cr .

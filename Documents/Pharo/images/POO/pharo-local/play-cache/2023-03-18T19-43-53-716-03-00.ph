@@ -1,0 +1,1 @@
+metodoDeEjemplo: y| x | x:= self size +super size .	#(ã #a "a" 1 1.0) do: [ :each | Transcript show: (each class name)].	^x < y.	'este es un string' asUppercase.true & false.8 between: 2 and: 30.4 + 6 factorial between: 3 + 4 * 10 and: 'hello' size * 8.

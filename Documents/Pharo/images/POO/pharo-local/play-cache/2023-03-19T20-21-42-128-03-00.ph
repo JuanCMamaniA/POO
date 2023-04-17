@@ -1,0 +1,1 @@
+|nroC NroCUni modulo otro nroC2 suma|nroC := Complejo new inicializarReal: 4 imaginario:2. nroC2 := Complejo crearReal: 5 imaginario:4.NroCUni := nroC unidad .Transcript clear .Transcript show: NroCUni asString ;cr.modulo := nroC modulo .Transcript show: modulo asString.suma := nroC  sumaComlejos: nroC2 .

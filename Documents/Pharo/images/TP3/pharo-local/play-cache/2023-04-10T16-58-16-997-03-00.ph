@@ -1,0 +1,1 @@
+|nuevoLocal nuevaVenta|Transcript  clear .nuevaVenta := Venta newCantidad: 10 valorUnitario: 120 .nuevoLocal := Local newNombreEmpresa: 'PEPEyHERMANOS'.nuevoLocal cargarVenta: nuevaVenta .Transcript show: nuevoLocal toString .

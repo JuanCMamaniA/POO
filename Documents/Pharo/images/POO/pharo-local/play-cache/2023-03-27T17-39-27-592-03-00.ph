@@ -1,0 +1,1 @@
+|nroC |nroC := Complejo  new.nroC crearReal3: 4 imaginario:2. Transcript show:'hola mundo'.

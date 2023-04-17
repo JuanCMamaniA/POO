@@ -1,0 +1,1 @@
+|PERSONA|PERSONA:= Persona new.PERSONA apellido: 'juan' nombre:'pepe'  edad:12. Transcript clear .Transcript show: PERSONA toString;cr  .Transcript show:PERSONA  esMayor;cr ."Que diferencia existe"Transcript show: PERSONA getNombre asString,' es mayor de edad : ',PERSONA esMayor asString ."cual es la diferencia"

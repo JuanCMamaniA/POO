@@ -1,0 +1,1 @@
+|CORDENADA|CORDENADA :=Punto new.CORDENADA x:1.CORDENADA y:2.Transcript clear .Transcript show: 'Punto (',CORDENADA x asString ,' , ',CORDENADA y asString ,')'.

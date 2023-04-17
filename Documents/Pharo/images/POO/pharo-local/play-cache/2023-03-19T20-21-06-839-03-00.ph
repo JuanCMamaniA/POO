@@ -1,0 +1,1 @@
+|unVagon|unVagon := Vagon new crearAnio: 2002 largo: 125 ancho: 3 cantidadPasajerosTranportar: 40.Transcript clear .Transcript show:unVagon imprimir ;cr.Transcript show:'El vagon lleva instalado ',unVagon verificarAntiguedad asString,' Anios'.

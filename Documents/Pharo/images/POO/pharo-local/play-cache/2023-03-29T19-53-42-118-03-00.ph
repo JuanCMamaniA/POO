@@ -1,0 +1,1 @@
+|var campeonato |var := PARTICIPACION crearPais: 'Argentina' directorTec:'Pepe'  jugadorEstrella:'Jose'. campeonato:= CAMPEONATO crearAnio: 2002 paisRealizacion:'chile'  campeon: var.Transcript show: campeonato  obtenerJugadorEstrella .Transc
